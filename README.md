@@ -8,7 +8,6 @@ Welcome to my  Product Management knowledge base.
 This repository contains:
 
 - 📚 Learning Resources
--    PM Concepts  
 - 🤖 AI Concepts
 - 📝 PM Templates
 - 💼 Interview Prep
@@ -22,12 +21,16 @@ This repository contains:
 
 | Section | Description |
 |---------|-------------|
-| AI Fundamentals | LLMs, RAG, Agents |
-| Product Management | Frameworks & Strategy |
-| Prompt Library | AI prompts for PMs |
-| Interview Prep | PM interview notes |
-| Job Boards | PM jobs |
-| Templates | PRDs, Roadmaps |
+| Product Management |Concpets,Frameworks & Strategy |
+| AI Fundamentals | LLMs, RAG, Agents,|
+| Blogs | Handpicked blogs and resources worth reading on technology, product management, and AI.
 | Books | Reading list |
 | Courses | Learning resources |
-| Blogs | Handpicked blogs and resources worth reading on technology, product management, and AI.
+| Interview Prep | PM interview notes |
+|Portfolio | How to build your PM Portfolio|
+| Prompt Library | AI prompts Useful for PMs |
+| Job Boards | PM jobs |
+| Templates | PRDs, Roadmaps |
+
+
+
