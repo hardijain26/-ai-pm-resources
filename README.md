@@ -25,8 +25,9 @@ This repository contains:
 | Product Management | Frameworks & Strategy |
 | Prompt Library | AI prompts for PMs |
 | GitHub Resources | Useful repositories |
-| Interview Prep | AI PM interview notes |
-| Job Boards | AI PM jobs |
+| Interview Prep | PM interview notes |
+| Job Boards | PM jobs |
 | Templates | PRDs, Roadmaps |
 | Books | Reading list |
 | Courses | Learning resources |
+| Blogs |
