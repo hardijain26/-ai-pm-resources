@@ -23,7 +23,6 @@ This repository contains:
 |---------|-------------|
 | Product Management |Concpets,Frameworks & Strategy |
 | AI Fundamentals | LLMs, RAG, Agents,|
-| Blogs | Handpicked blogs and resources worth reading on technology, product management, and AI.
 | Books | Reading list |
 | Courses | Learning resources |
 | Interview Prep | PM interview notes |
